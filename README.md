@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @peeboss
-- 👀 I’m interested in python java
-- 🌱 I’m currently learning java and soft test
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in how to be lazy
+- 🌱 I’m currently learning spring
+- 💞️ I’m looking to do different things
 - 📫 How to reach me ...
 
 <!---
